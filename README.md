@@ -2,6 +2,10 @@
 
 Sou um profissional Técnico em Eletrotécnica com sólidas habilidades na área elétrica. Meu conhecimento abrange os princípios elétricos e normas de segurança, com uma experiência significativa na execução e manutenção de instalações elétricas residenciais. Além disso, sou apaixonado por programação, dedicando meu tempo livre ao estudo, especialmente na área de programação Web.
 
+
+
+![Capa](https://images.unsplash.com/photo-1534224039826-c7a0eda0e6b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ## Sobre Mim
 
 - 💡 Técnico em Eletrotécnica
